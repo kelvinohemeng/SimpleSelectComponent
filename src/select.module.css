@@ -68,6 +68,9 @@
 
 .options.show {
   display: block;
+  background: white;
+  z-index: 99999;
+  position: absolute;
 }
 
 .option {
